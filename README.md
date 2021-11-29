@@ -12,7 +12,7 @@
 
 ### 1. Registering a room:
 - input: register_room <room_name> 
-- output: Room name <room_name> was sucessfully registered!
+- output: Room name <room_name> was successfully registered!
 
 ### 2. Booking a room
 - input type1: book_room <startTime> <end_time> <date> <room_name>
@@ -26,7 +26,7 @@
 - output: No bookings were made 
           On <date> bookings made were <list of comma seperated time ranges)
 
-### 4. we stop taking input untill the "exit" is ecountered 
+### 4. we stop taking input untill the "exit" is encountered 
 
 
 # Sample input 
